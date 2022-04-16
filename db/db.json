@@ -1,14 +1,19 @@
 {
-  "notes": [
+  "notesArray": [
     {
-        "id": "0",
       "title": "Call Bank",
-      "text": "Test text"
+      "text": "Call the bank on Monday morning after 9:00am to transfer funds.",
+      "id": "0"
     },
     {
-        "id": "1",
-      "title": "Test2",
-      "text": "Test2"
+      "title": "Change Schedule",
+      "text": "Change weekly department meeting schedules and report to supervisor.",
+      "id": "1"
+    },
+    {
+      "title": "Apply for passport",
+      "text": "Apply for my new passport next Wednesday.",
+      "id": "2"
     }
   ]
 }
