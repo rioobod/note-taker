@@ -1,4 +1,4 @@
-# Project Title
+## Project Title
 Note Taker
 
 ## Project Description
@@ -15,7 +15,7 @@ A note taking application that can be used to write and save notes. Using Expres
 ## Link to Deployed page:
 https://note-taker-app0001.herokuapp.com/
 
-## Screenshot
+## Screenshots
 ![alt text](assets/images/notetaker1.PNG)
 
 ![alt text](assets/images/notetaker2.PNG)
